@@ -14,14 +14,14 @@ li {
     --bg: var(--green);
     --fontColor: var(--black);
     --btnBg: var(--black);
-    --btnFontColor: var(var(--white));
+    --btnFontColor: var(--white);
 }
 
 .dark-theme {
     --bg: var(--black);
     --fontColor: var(--green);
     --btnBg: var(--white);
-    --btnFontColor: var(var(--black));
+    --btnFontColor: var(--black);
 }
 
 :root {
